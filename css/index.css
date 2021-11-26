@@ -1,0 +1,10 @@
+@import "normalize.css";
+@import "../css/fonts/fonts.css";
+@import "default.css";
+@import "basic.css";
+@import "pressent.css";
+@import "content.css";
+@import "../css/One/one.css";
+@import "../css/two/two.css";
+@import "../css/three/three.css";
+@import "result.css";

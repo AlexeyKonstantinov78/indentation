@@ -1,0 +1,22 @@
+.content__container {
+    background-color: #F1F1F1;
+    padding-bottom: 27px;
+}
+
+.content__items {
+    color: #02535F;
+}
+
+.content__title {
+    padding-top: 23px;
+    padding-left: 20px;
+    margin-bottom: 20px;    
+}
+
+.content__item {
+    margin-bottom: 10px;
+}
+
+.content__item:last-child {
+    margin-bottom: 0;
+}

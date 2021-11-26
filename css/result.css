@@ -1,0 +1,17 @@
+.result__container {
+    padding-top: 25px;
+    padding-bottom: 22px;
+    background-color: #F1F1F1;
+}
+
+.result__title {
+    margin-bottom: 19px;
+}
+
+.result__items {
+    margin-bottom: 29px;
+}
+
+.result__item:not(:last-child) {
+    margin-bottom: 9px;
+}

@@ -1,0 +1,17 @@
+.one__title {
+    margin-bottom: 30px;
+}
+
+.one__img-one {
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.one__img_two {
+    float: right;
+}
+
+.one__subscription {
+    white-space: pre-line;
+}
