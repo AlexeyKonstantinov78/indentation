@@ -33,13 +33,13 @@
         </section>
 
         <section class="one" id="one">
-            <div class="container">
+            <div class="container one__container">
                 <h2 class="one__title">Отступ задается от предыдущего элемента к следующему: от первого ко второму, сверху вниз, слева направо.</h2>
                 <img class="one__img-one" width="560" height="415" src="./css/One/image/one-image-1.jpg" alt="фото с блоками и отступами" style="float:left;">
                 <img class="one__img_two" width="560" height="279" src="./css/One/image/one-image-2.jpg" alt="фото отступа сверху">
                 <p class="one__subscription"><strong class="one__span-bold">ВАЖНО:</strong> <i>margin</i> всегда задают от предыдущего 
                     элемента к следующему.
-                
+                                    
                     Свойство <i>margin</i> необходимо только для того, 
                     чтобы отодвинуть своего соседа справа или снизу, 
                     поэтому используется <i>margin-right</i> и <i>margin-bottom</i>.
@@ -82,9 +82,12 @@
                 
                 <p class="two__subscription">Отступ делают за счёт соседних элементов, а не дочерних:</p>
                 
-                <img class="two__img" width="1080" height="427" src="./css/two/image/image-5.jpg" alt="фото примеров отступа">
+                <img class="two__img two__img_margin-botom-null" width="1080" height="427" src="./css/two/image/image-5.jpg" alt="фото примеров отступа">                
                 
-                <p class="two__subscription">ВАЖНО: здесь .<i>list-item</i> — последний возможный элемент в котором мы задаём отступ, чтобы разделить списки.</p>
+                <p class="two__subscription two__subscription_padding two__subscription_border">ВАЖНО: здесь .<i>list-item</i> — последний возможный элемент в котором мы задаём отступ, чтобы разделить списки.</p>
+                
+                <p class="two__subscription">Казалось бы, можно задать отступ параграфу &lt;p&gt;, либо обёртке &lt;article&gt; для достижения той же цели. Внешне останется все точно также, но так делать не рекомендуется.</p>
+
                 <p class="two__subscription">Предыдущий пример был достаточно простым, но бывает вложенность значительно больше.</p>
                 
                 <img class="two__img two__img_center" width="964" height="164" src="./css/two/image/image-6.jpg" alt="фото примеров отступа">

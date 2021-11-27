@@ -6,12 +6,26 @@
     margin-bottom: 30px;
 }
 
+.two__subscription_padding {
+    padding: 15px 30px;
+}
+
+.two__subscription_border {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
 .two__img_center {    
     display: block;
     margin: 0 auto;
 }
 
 .two__img {
+    display: block;
     margin-bottom: 30px;
 }
 
+.two__img_margin-botom-null {
+    margin-bottom: 0;
+}

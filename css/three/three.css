@@ -13,4 +13,9 @@
 
 .three__img {
     margin-bottom: 30px;
+    display: block;
+}
+
+.three__img:last-child {
+    margin-bottom: 0;    
 }
