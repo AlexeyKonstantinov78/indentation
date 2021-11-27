@@ -2,7 +2,7 @@
     margin-bottom: 30px;
 }
 
-.two__subscription {
+.two__subscription:not(:last-child) {
     margin-bottom: 30px;
 }
 

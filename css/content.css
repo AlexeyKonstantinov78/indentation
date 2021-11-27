@@ -1,6 +1,7 @@
 .content__container {
     background-color: #F1F1F1;
-    padding-bottom: 27px;
+    padding-top: 25px;
+    padding-bottom: 25px;
 }
 
 .content__items {
@@ -8,7 +9,8 @@
 }
 
 .content__title {
-    padding-top: 23px;
+    font-weight: bold;
+    font-size: 44px;        
     padding-left: 20px;
     margin-bottom: 20px;    
 }

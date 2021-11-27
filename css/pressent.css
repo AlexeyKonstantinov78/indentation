@@ -1,5 +1,8 @@
-.pressent__title {
-    padding-top: 60px;
+.pressent__container {
+    padding-top: 35px;
+}
+
+.pressent__title {    
     margin-bottom: 30px;
 }
 
